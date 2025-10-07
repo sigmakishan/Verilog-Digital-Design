@@ -29,10 +29,9 @@ Here is a screenshot from the EPWave simulation, showing a successful transmissi
 <img width="1877" height="787" alt="Screenshot 2025-10-08 004846" src="https://github.com/user-attachments/assets/423c9314-45c6-47e2-b36e-7e3bdb49fd1f" />
 
 
-*Note: To add the image, take a screenshot of your working waveform, upload it to the `uart/` folder in your repository, and then replace the text above with the correct file path.*
 
 ### Live Simulation
-You can view the code and run the simulation live on EDA Playground using the following link:
+view the code and run the simulation live on EDA Playground using the following link:
 
 [**View on EDA Playground**](<INSERT_YOUR_SAVED_EDA_PLAYGROUND_URL_HERE>)
 
